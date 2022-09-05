@@ -7,9 +7,13 @@
 ## **Subir proyecto a la nube de GitHub**
 
 `git init`
+
 `git add .` // `git add <archivo>`
+
 `git commit -m "Ejemplo Commit"`
+
 `git remote add origin https://github.com/JRossello03/Integrat-amb-Github.git`
+
 `git push -u origin master`
 
 ## **Importar proyecto de GitHub**
